@@ -1,0 +1,1 @@
+Foi necessário subtrair os maiusculos por 32 para verificar a ordenação
